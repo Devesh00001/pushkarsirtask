@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class thirdBranch1 {
+public class thirdBranch1 {
 }
